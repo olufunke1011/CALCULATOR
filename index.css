@@ -1,3 +1,27 @@
 .full {
     background-image: url(back.png);
+    padding-bottom: 50px;
+
+}
+
+.first {
+    text-align: center;
+}
+
+.welcome {
+    padding-right: 150px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.age {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+    padding-bottom: 50px; 
+}
+
+.click {
+    background: #afb4e4;
+    border-radius: 35px;
+    color: whitesmoke;
 }
